@@ -14,7 +14,7 @@ There are 6 different learning area with 6 different lists, pick one which you a
 - [6.0 Network Fundamentals](/6.0%20Network%20Fundamentals/README.md)
 
 ## Learning plans
-Will create two 10 weeks learning plans for **Software engineer** and **Network engineer**, will focus on different technology areas and different time spending. 
+Will create two `10 weeks` learning plans for **Software engineer** and **Network engineer**, will focus on different technology areas and different time spending. 
 
 ## Contribution
 Welcome to contribute and modify the content, please create a PR to any README.md file you would like to contribute.
