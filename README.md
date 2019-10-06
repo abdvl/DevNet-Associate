@@ -16,6 +16,9 @@ There are 6 different learning area with 6 different lists, pick one which you a
 ## Learning plans
 Will create two `10 weeks` learning plans for **Software engineer** and **Network engineer**, will focus on different technology areas and different time spending. 
 
+- [Learning plan for software engineer](/Learning%20Plan/Software%20engineer/README.md)
+- [Learning plan for network engineer](/Learning%20Plan/Network%20engineer/README.md)
+
 ## Contribution
 Welcome to contribute and modify the content, please create a PR to any README.md file you would like to contribute.
 
