@@ -31,8 +31,8 @@ Welcome to contribute and modify the content, please create a PR to any README.m
 - [ ] [6.0 Network Fundamentals](/6.0%20Network%20Fundamentals/README.md)
 
 ### Learning Plan
-- [] Software engineer plan
-- [] Network engineer plan
+- [ ] Software engineer plan
+- [ ] Network engineer plan
 
 
 ## Important
