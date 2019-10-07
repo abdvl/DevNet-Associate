@@ -38,5 +38,5 @@ Welcome to contribute and modify the content, please create a PR to any README.m
 - [ ] Network engineer plan
 
 
-## Important
-All resources come from network and free, so this is for personal use, please don't use it for any commercial use.
+## Important!
+All resources come from internet and free, so this repo is just for personal use, please don't use it for any commercial use.
