@@ -1,10 +1,10 @@
-# DevNet-Associate
-Awesome free learning resources for [DevNet Associate Certification](https://developer.cisco.com/certification/exam-topic-associate/).
+# Awesome free learning resources for DevNet Associate Certification 🎉🎉🎉
+A free learning resources collection for [DevNet Associate Certification](https://developer.cisco.com/certification/devnet-associate/) from various source.🚀🚀🚀
 
 ## Learning topics
-Break down official exam topics to learning topic which includes introduction article(tutorial), official site, documentation, DevNet Learning Lab, DevNet Sandbox, and Youtube Video. And also mark is that essential or not, and how long you should spend on each topic.
+Breaking down official [exam topics](https://developer.cisco.com/certification/exam-topic-associate/) to learning topic which includes introduction article(tutorial), official site, documentation, DevNet Learning Lab, DevNet Sandbox, and Youtube Video. And also mark is that essential or not, and how long you should spend on each topic.
 
-There are 6 different learning area with 6 different lists, pick one which you are interested to start with.
+There are 6 different learning areas with 6 different lists, pick one which you are interested to start with!
 
 - [1.0 Software Development and Design](/1.0%20Software%20Development%20and%20Design/README.md)
 - [2.0 Understanding and Using APIs](/2.0%20Understanding%20and%20Using%20APIs/README.md)
